@@ -24,7 +24,7 @@ All work related to:
 is available in the **main project repository**:
 
 👉 **Core Repository:**  
-https://github.com/Vins-Tech/app_aqi_prediction_deploy
+https://github.com/Vins-Tech/V2_aqi_prediction_public
 
 ---
 
